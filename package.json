@@ -1,0 +1,26 @@
+{
+  "name": "currency-exchange-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "type" : "module",
+  "scripts": {
+    "start" : "node js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazarchukdana/currency-exchange-tracker.git"
+  },
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazarchukdana/currency-exchange-tracker/issues"
+  },
+  "homepage": "https://github.com/nazarchukdana/currency-exchange-tracker#readme"
+}
